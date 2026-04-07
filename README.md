@@ -26,7 +26,7 @@
 |  4  |   장바구니    |   [Step1](https://github.com/woowacourse/react-shopping-cart/pull/357)   | [리바이](https://github.com/eunwoo-levi) |
 |     |               |   [Step2](https://github.com/woowacourse/react-shopping-cart/pull/402)   |                                          |
 
-## Level 3
+## Level 3, 4
 
 팀 프로젝트 진행 - [모멘트 Repository](https://github.com/woowacourse-teams/2025-moment)
 
